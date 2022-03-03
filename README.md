@@ -4,7 +4,7 @@
 # gitflow
 >gitflow is Gitflow is a legacy Git workflow that was originally a disruptive and novel strategy for managing Git branches.
 
-![screenshot](![image](https://user-images.githubusercontent.com/90524466/156601468-833122a8-d7b9-4e67-bbd3-d1c3a2181fc6.png)
+![screenshot](https://user-images.githubusercontent.com/90524466/156601468-833122a8-d7b9-4e67-bbd3-d1c3a2181fc6.png)
 
 
 <br/>
