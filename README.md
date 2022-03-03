@@ -12,15 +12,12 @@
 Additional description about the project and its features.
 ## Built With
 
-- Major languages (JavaScript(ES6))
 - Technologies/tools used 
 
   
   ``` bash
  
   - Git(version control)
-  - ESLint(JavaScript linting)
-  - Stylelint(style linting)
 
   ```
 
